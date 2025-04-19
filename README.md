@@ -8,7 +8,7 @@ The goal of this application is to provide an easy-to-use interface for creating
 
 ## Live Demo
 
-You can explore the project online through this [Demo Link](https://shiny-starlight-e3973a.netlify.app).
+You can explore the project online through this.
 
 ## Features
 
@@ -23,12 +23,3 @@ You can explore the project online through this [Demo Link](https://shiny-starli
 - **JavaScript**: Manages interactive elements and note management logic.
 - **CSS**: Creates a visually appealing layout and enhances user experience.
 - **HTML**: Structures the application’s base.
-
-## Setup and Installation
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   
-   ```bash
-   git clone <https://github.com/yakuperenermurat/Note-App.git>
